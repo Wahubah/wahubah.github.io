@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "wahubah",
+            "address": "https://anisette-v3-server-ic6n.onrender.com"
+        }
+    ]
+}
